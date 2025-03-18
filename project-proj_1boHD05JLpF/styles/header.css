@@ -1,0 +1,19 @@
+.header {
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.nav-link {
+    color: #333;
+    transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+    color: #666;
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #1a1a1a;
+}
